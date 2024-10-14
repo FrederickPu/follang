@@ -1,0 +1,3 @@
+C:/Users/pufre/CLionProjects/follang/cmake-build-debug/CMakeFiles/follang.dir
+C:/Users/pufre/CLionProjects/follang/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pufre/CLionProjects/follang/cmake-build-debug/CMakeFiles/rebuild_cache.dir

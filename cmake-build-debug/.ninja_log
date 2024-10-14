@@ -1,0 +1,5 @@
+# ninja log v5
+6	1365	7485541648866177	CMakeFiles/follang.dir/main.cpp.obj	9d60750ea93ff59a
+1	166	7489389756762817	build.ninja	ee8f88aa4a507f80
+10	1005	7485554037268692	CMakeFiles/follang.dir/parserlexer.cpp.obj	ec401f02f416e4dd
+1006	1226	7485554039472755	follang.exe	bae1a76cc5ca01e1
