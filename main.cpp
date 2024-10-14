@@ -1,7 +1,7 @@
 #include <iostream>
 #include "parserlexer.h"
 
-// example expression: def f() forall x, x
+// example definition syntax: def f() forall x, x
 int main() {
     std::map<Binop, int> BinopPrecedence;
     BinopPrecedence[op_and] = 40;
